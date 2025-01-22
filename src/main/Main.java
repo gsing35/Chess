@@ -15,6 +15,7 @@ public class Main {
 		GamePanel game = new GamePanel();
 		window.add(game);
 		window.pack();
+		//dwdwwdwdw
 		window.setLocationRelativeTo(null);
 		window.setVisible(true);
 		
