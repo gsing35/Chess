@@ -18,7 +18,7 @@ public class Main {
 		//dwdwwdwdw
 		window.setLocationRelativeTo(null);
 		window.setVisible(true);
-		
+		//fiehfeohi
 		game.launchGame();
 		
 	}
